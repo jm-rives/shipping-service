@@ -17,6 +17,9 @@
 /tmp
 # hide sekrets!
 .env
+.env
+/#.env # hides all files that end 
+
 
 # hide that one annoying file
 .DS_store
